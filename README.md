@@ -1,2 +1,3 @@
-# FPS-Icons
-Change Font Awesome Icons animation using JS
+<p align="center">
+  <img src='preview.gif'>
+</p>
